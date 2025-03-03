@@ -1,1 +1,1 @@
-# Instagram-Trend-and-Post-Analysis
+# InstaTrends
