@@ -19,13 +19,13 @@ The system is backed by Astra DB for data storage and includes an API for servin
 Clone the project
 
 ```bash
-  gh repo clone ritik-vishwkarma/Instagram-Analysis
+  gh repo clone Shravani804/Instagram-Trend-and-Post-Analysis
 ```
 
 Go to the project directory
 
 ```bash
-  cd Instagram-Analysis
+  cd Instagram-Trend-and-Post-Analysis
 ```
 
 
